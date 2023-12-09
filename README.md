@@ -1,5 +1,19 @@
 # School-HW
 
+### Week 13
+
+```
+cd Week12/compound
+forge test --mp test/CompoundTest.t.sol -vvv
+```
+
+### Week 12
+
+```
+cd Week12/compound
+forge script script/CompoundSetup.s.sol --tc CompoundSetup --rpc-url https://rpc.ankr.com/eth_sepolia --broadcast
+```
+
 ### Week 11
 
 ```
