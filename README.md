@@ -1,5 +1,12 @@
 # School-HW
 
+### Week 14
+
+```
+cd Week12/compound
+forge test --mp test/AAVEFlashLoanTest.t.sol -vvv --via-ir
+```
+
 ### Week 13
 
 ```
